@@ -1,0 +1,12 @@
+
+# You must include a written description of three observable trends based on the data
+
+Purchasing Analysis (Gender)
+
+
+Males are the largest percentage of gamers at 84% which contributes to males being the largest purchasers by over 5 times the amount (652 male purchases vs 113 female).
+
+The vast majority of players (76.8% of players) are between 15 and 30. Almost half of players are between 20 and 24 at 44.8%. However, children less than 10 and 35-39 year old adults spend the most on average per person with $4.54 per child and $4.76 per adult respectively.  
+
+"Final critic" and "Last Hope of the Breaking Storm" in game items are both the most popular items and the most profitable with purchase counts of 13 and 12 and total purchase values of $60 and $51.
+
